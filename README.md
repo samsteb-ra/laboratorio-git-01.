@@ -9,3 +9,5 @@ Soy estudiante de Ingeniería de Sistemas.
 Este repositorio corresponde al laboratorio de Git y GitHub.
 
 Nací y vivo en Villavicencio 
+
+Estudio en la Universidad de los Llanos
